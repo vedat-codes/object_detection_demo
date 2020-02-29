@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>clio-9c8376ee-65e9-46dd-9b05-c1368047e1ba.png</filename>
+	<path>C:\Users\Vedat\Desktop\data\images\train\clio-9c8376ee-65e9-46dd-9b05-c1368047e1ba.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>529</width>
+		<height>210</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>10</ymin>
+			<xmax>402</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

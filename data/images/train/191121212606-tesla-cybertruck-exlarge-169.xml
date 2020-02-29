@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>191121212606-tesla-cybertruck-exlarge-169.jpg</filename>
+	<path>C:\Users\Vedat\Desktop\data\images\train\191121212606-tesla-cybertruck-exlarge-169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>92</ymin>
+			<xmax>684</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>
