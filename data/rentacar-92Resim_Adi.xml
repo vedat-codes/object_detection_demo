@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>rentacar-92Resim_Adi.JPG</filename>
+	<path>C:\Users\Vedat\Desktop\data\images\train\rentacar-92Resim_Adi.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>94</ymin>
+			<xmax>598</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>
